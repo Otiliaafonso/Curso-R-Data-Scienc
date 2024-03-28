@@ -1,1 +1,3 @@
-# Curso-R-Data-Scienc
+# Curso-R-Data-Scienc - Aula 01 do Curso de R
+## Otilia
+- Desenvolvimento
